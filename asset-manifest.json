@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PedroPauloDias/FazerLoginComGoogle.git/static/css/main.bf4f0e46.css",
+    "main.js": "/PedroPauloDias/FazerLoginComGoogle.git/static/js/main.8a5af1b1.js",
+    "index.html": "/PedroPauloDias/FazerLoginComGoogle.git/index.html",
+    "main.bf4f0e46.css.map": "/PedroPauloDias/FazerLoginComGoogle.git/static/css/main.bf4f0e46.css.map",
+    "main.8a5af1b1.js.map": "/PedroPauloDias/FazerLoginComGoogle.git/static/js/main.8a5af1b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4f0e46.css",
+    "static/js/main.8a5af1b1.js"
+  ]
+}
